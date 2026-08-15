@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/"><img height=25 alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-cbd5e1.svg?style=for-the-badge&logo=LinkedIn&logoColor=0f172a"></a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/"><img height=25 alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-cbd5e1.svg?style=for-the-badge&logo=LinkedIn&logoColor=#94A3B8"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/602766210366439424"><img height=25 alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-94a3b8.svg?style=for-the-badge&logo=Discord&logoColor=0f172a"></a>
+  <a href="https://discord.com/users/602766210366439424"><img height=25 alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-94a3b8.svg?style=for-the-badge&logo=Discord&logoColor=#94A3B8"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:lllytnuk7@gmail.com"><img height=25 alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-64748b.svg?style=for-the-badge&logo=Gmail&logoColor=f1f5f9"></a>
+  <a href="mailto:lllytnuk7@gmail.com"><img height=25 alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-64748b.svg?style=for-the-badge&logo=Gmail&logoColor=#94A3B8"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://line.me/ti/p/pasqalex"><img height=25 alt="LINE" title="LINE" src="https://img.shields.io/badge/LINE-0f172a.svg?style=for-the-badge&logo=LINE&logoColor=f1f5f9"></a>
+  <a href="https://line.me/ti/p/pasqalex"><img height=25 alt="LINE" title="LINE" src="https://img.shields.io/badge/LINE-0f172a.svg?style=for-the-badge&logo=LINE&logoColor=#94A3B8"></a>
 </p>
 
 <br>
