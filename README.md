@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=6500&pause=2000&color=B0C4DE&background=575F5F00&center=true&width=435&lines=Data+Engineer;Always+up+for+new+challenges" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=6500&pause=2000&color=A6AAB0&background=575F5F00&center=true&width=435&lines=Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;%E3%83%87%E3%83%BC%E3%82%BF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A0%E3%82%88;Always+up+for+new+challenges" alt="Typing SVG" />
   </a>
 </p>
 
@@ -99,3 +99,7 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PyArrow](https://img.shields.io/badge/PyArrow-F15A24?style=for-the-badge&logo=apachearrow&logoColor=white)
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,50:94a3b8,100:0f172a&height=100&section=footer"/>
