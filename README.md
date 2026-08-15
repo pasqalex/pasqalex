@@ -24,7 +24,7 @@
 
 <div align="center">
 
-🎓 Third-year Applied Mathematics student. I enjoy finding structure in chaos — whether it's a messy dataset or a disassembled laptop on my desk.
+🎓 Third-year Applied Mathematics student. I enjoy finding structure in chaos, whether it's a messy dataset or a disassembled laptop on my desk.
 
 📊 Junior Data Engineer. I build ETL/ELT pipelines end-to-end: from raw logs to clean, queryable marts.
 
