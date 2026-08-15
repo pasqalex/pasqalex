@@ -40,6 +40,6 @@
 
 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasqalex&theme=blue-green&v=2)
+![Top Languages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=pasqalex&theme=blue-green)
 
 ###
