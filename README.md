@@ -22,15 +22,17 @@
 
 <h2 align="center">💫 About Me</h2>
 
-<p align="left">
-🎓 Third-year Applied Mathematics student. I enjoy finding structure in chaos, whether it's a messy dataset or a disassembled laptop on my desk.
+<div align="center">
 
-📊 Junior Data Engineer with hands-on experience building ETL/ELT pipelines end-to-end: from raw logs to clean, queryable marts.
+🎓 Third-year Applied Mathematics student. I enjoy finding structure in chaos — whether it's a messy dataset or a disassembled laptop on my desk.
 
-🔧 Off the clock, I'm usually repairing electronics, soldering, troubleshooting, bringing dead hardware back to life. It's the same detective work as debugging a pipeline, just with more flux and fewer logs.
+📊 Junior Data Engineer. I build ETL/ELT pipelines end-to-end: from raw logs to clean, queryable marts.
+
+🔧 Off the clock, I repair electronics — soldering, troubleshooting, bringing dead hardware back to life. Same detective work as debugging a pipeline, just with more flux and fewer logs.
 
 📚 Currently diving into distributed systems, cloud data platforms, and the math that makes them tick.
-</p>
+
+</div>
 
 <br>
 
