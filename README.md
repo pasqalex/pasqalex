@@ -19,7 +19,6 @@
 </p>
 
 <br>
-
 <h2 align="center">💫 About Me</h2>
 
 <div align="center">
@@ -32,8 +31,11 @@
 
 📚 Currently diving into distributed systems, cloud data platforms, and the math that makes them tick.
 
-</div>
+<br>
 
+💬 **I speak:** 🇷🇺 Русский (native) · 🇬🇧 English (C1) · 🇯🇵 日本語 (N4)
+
+</div>
 <br>
 
 <h2 align="center">🛠 My favorite tools</h2>
