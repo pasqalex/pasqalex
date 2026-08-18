@@ -34,7 +34,7 @@
 💬 **I speak:**
 <br><br>
 <img src="https://img.shields.io/badge/Русский-Native-0f172a?style=for-the-badge&logo=googletranslate&logoColor=94a3b8" alt="Russian" />
-<img src="https://img.shields.io/badge/English-C1-0f172a?style=for-the-badge&logo=googletranslate&logoColor=94a3b8" alt="English" />
+<img src="https://img.shields.io/badge/English-B2-0f172a?style=for-the-badge&logo=googletranslate&logoColor=94a3b8" alt="English" />
 <img src="https://img.shields.io/badge/日本語-N4-0f172a?style=for-the-badge&logo=googletranslate&logoColor=94a3b8" alt="Japanese" />
 
 <br>
