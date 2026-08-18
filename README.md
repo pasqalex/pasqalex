@@ -19,9 +19,12 @@
 </p>
 
 <br>
+
 <h2 align="center">💫 About Me</h2>
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/Code%20Time-272%20hrs-0f172a?style=for-the-badge&logo=clock&logoColor=94a3b8" alt="Code Time" />
 
 🎓 Third-year Applied Mathematics student. I enjoy finding structure in chaos, whether it's a messy dataset or a disassembled laptop on my desk.
 
