@@ -30,7 +30,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
 
 🎓 Third-year Applied Mathematics student. I enjoy finding structure in chaos.
 
