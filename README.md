@@ -22,27 +22,37 @@
 
 <h2 align="center">💫 About Me</h2>
 
+<br>
+
 <div align="center">
-
 <img src="https://img.shields.io/badge/Code%20Time-284%20hrs-0f172a?style=for-the-badge&logo=clock&logoColor=94a3b8" alt="Code Time" />
+</div>
 
-🎓 Third-year Applied Mathematics student. I enjoy finding structure in chaos, whether it's a messy dataset or a disassembled laptop on my desk.
+<br>
+
+<div align="left">
+
+🎓 Third-year Applied Mathematics student. I enjoy finding structure in chaos.
 
 📊 Junior Data Engineer. I build ETL/ELT pipelines end-to-end: from raw logs to clean, queryable marts.
 
-🔧 Off the clock, I repair electronics: soldering, troubleshooting, bringing dead hardware back to life. Same detective work as debugging a pipeline, just with more flux and fewer logs.
+🔧 Off the clock, I repair electronics: soldering, troubleshooting, bringing dead hardware back to life. Same detective work as debugging a pipeline.
 
 📚 Currently diving into distributed systems, cloud data platforms, and the math that makes them tick.
+
+<br>
+
+</div>
+
+<div align="center">
 
 💬 **I speak:**
 <br><br>
 <img src="https://img.shields.io/badge/Русский-Native-0f172a?style=for-the-badge&logo=googletranslate&logoColor=94a3b8" alt="Russian" />
 <img src="https://img.shields.io/badge/English-B2-0f172a?style=for-the-badge&logo=googletranslate&logoColor=94a3b8" alt="English" />
 <img src="https://img.shields.io/badge/日本語-N4-0f172a?style=for-the-badge&logo=googletranslate&logoColor=94a3b8" alt="Japanese" />
-
-<br>
-
 </div>
+
 <br>
 
 <h2 align="center">🛠 My favorite tools</h2>
