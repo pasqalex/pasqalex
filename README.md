@@ -1,32 +1,26 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,50:94a3b8,100:0f172a&height=100&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:f72585&height=120&section=header"/>
 
 <h1 align="center">✨ Hello! I am Michael</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=6500&pause=2000&color=A6AAB0&background=575F5F00&center=true&width=435&lines=Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;%E3%83%87%E3%83%BC%E3%82%BF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A0%E3%82%88;Always+up+for+new+challenges" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=6500&pause=2000&color=E0AAFF&background=575F5F00&center=true&width=435&lines=Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;%E3%83%87%E3%83%BC%E3%82%BF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A0%E3%82%88;Always+up+for+new+challenges" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/VOID/"><img height=25 alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-cbd5e1.svg?style=for-the-badge&logo=LinkedIn&logoColor=#94A3B8"></a>
+  <a href="https://www.linkedin.com/in/VOID/"><img height=25 alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1a1a2e.svg?style=for-the-badge&logo=LinkedIn&logoColor=f72585"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/602766210366439424"><img height=25 alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-94a3b8.svg?style=for-the-badge&logo=Discord&logoColor=#94A3B8"></a>
+  <a href="https://discord.com/users/602766210366439424"><img height=25 alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-302b63.svg?style=for-the-badge&logo=Discord&logoColor=4cc9f0"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:akktorior@gmail.com"><img height=25 alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-64748b.svg?style=for-the-badge&logo=Gmail&logoColor=#94A3B8"></a>
+  <a href="mailto:akktorior@gmail.com"><img height=25 alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-3a0ca3.svg?style=for-the-badge&logo=Gmail&logoColor=4cc9f0"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://line.me/ti/p/pasqalex"><img height=25 alt="LINE" title="LINE" src="https://img.shields.io/badge/LINE-0f172a.svg?style=for-the-badge&logo=LINE&logoColor=#94A3B8"></a>
+  <a href="https://line.me/ti/p/pasqalex"><img height=25 alt="LINE" title="LINE" src="https://img.shields.io/badge/LINE-0f0c29.svg?style=for-the-badge&logo=LINE&logoColor=f72585"></a>
 </p>
 
 <br>
 
 <h2 align="center">💫 About Me</h2>
-
-<br>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Code%20Time-284%20hrs-0f172a?style=for-the-badge&logo=clock&logoColor=94a3b8" alt="Code Time" />
-</div>
 
 <br>
 
@@ -48,10 +42,16 @@
 
 💬 **I speak:**
 <br><br>
-<img src="https://img.shields.io/badge/Русский-Native-0f172a?style=for-the-badge&logo=googletranslate&logoColor=94a3b8" alt="Russian" />
-<img src="https://img.shields.io/badge/English-B2-0f172a?style=for-the-badge&logo=googletranslate&logoColor=94a3b8" alt="English" />
-<img src="https://img.shields.io/badge/日本語-N4-0f172a?style=for-the-badge&logo=googletranslate&logoColor=94a3b8" alt="Japanese" />
+<img src="https://img.shields.io/badge/Русский-Native-0f0c29?style=for-the-badge&logo=googletranslate&logoColor=f72585" alt="Russian" />
+<img src="https://img.shields.io/badge/English-B2-0f0c29?style=for-the-badge&logo=googletranslate&logoColor=f72585" alt="English" />
+<img src="https://img.shields.io/badge/日本語-N4-0f0c29?style=for-the-badge&logo=googletranslate&logoColor=f72585" alt="Japanese" />
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasqalex&theme=synthwave&hide_border=false" />
+</p>
 
 <br>
 
@@ -90,4 +90,4 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,50:94a3b8,100:0f172a&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:f72585&height=130&section=footer"/>
