@@ -1,13 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:f72585&height=120&section=header"/>
 
-<h1 align="center">✨ Hello! I am Michael</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=6500&pause=2000&color=E0AAFF&background=575F5F00&center=true&width=435&lines=Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;%E3%83%87%E3%83%BC%E3%82%BF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A0%E3%82%88;Always+up+for+new+challenges" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=6500&pause=2000&color=C5A3FF&background=575F5F00&center=true&width=600&lines=Hello!+I+am+Michael;Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;Data+Engineer;Always+up+for+new+challenges;%E3%83%87%E3%83%BC%E3%82%BF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A0%E3%82%88;Always+up+for+new+challenges" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/VOID/"><img height=25 alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1a1a2e.svg?style=for-the-badge&logo=LinkedIn&logoColor=f72585"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
@@ -49,18 +46,6 @@
 
 <br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasqalex/pasqalex/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasqalex/pasqalex/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pasqalex/pasqalex/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<br>
-
-<br>
-
 <h2 align="center">🛠 My favorite tools</h2>
 
 <p align="center">
@@ -92,6 +77,12 @@
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PyArrow-F15A24?style=for-the-badge&logo=apachearrow&logoColor=white" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pasqalex/pasqalex/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%">
 </p>
 
 <br>
