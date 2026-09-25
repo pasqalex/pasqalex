@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">📖 What I am currently learning / improving on</h2>
 
