@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/PyArrow-F15A24?style=for-the-badge&logo=apachearrow&logoColor=white" />
 </p>
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pasqalex/pasqalex/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%">
