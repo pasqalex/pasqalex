@@ -27,7 +27,7 @@
 
 📊 Junior Data Engineer. I build ETL/ELT pipelines end-to-end: from raw logs to clean, queryable marts.
 
-🔧 Off the clock, I repair electronics: soldering, troubleshooting, bringing dead hardware back to life. Same detective work as debugging a pipeline.
+🔧 Off the clock, I repair electronics: soldering, troubleshooting, bringing dead hardware back to life.
 
 📚 Currently diving into distributed systems, cloud data platforms, and the math that makes them tick.
 
